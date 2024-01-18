@@ -1,6 +1,6 @@
 import os
 import time
-from project_utils.utilfile import returnAppEnvFromInitFile
+from utils.utilfile import returnAppEnvFromInitFile
 from selenium.webdriver.support import expected_conditions as EC
 
 from selenium.webdriver.common.by import By
@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 from appium import webdriver
 
-from project_utils.logger import Logger
+from utils.logger import Logger
 """
 连接手机并启动一个应用
 

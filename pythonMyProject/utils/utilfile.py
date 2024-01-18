@@ -3,7 +3,7 @@ import traceback
 
 
 # import pandas as pd
-# from project_utils import UtilsRandom
+# from utils import UtilsRandom
 #
 
 def returnAppEnvFromInitFile():

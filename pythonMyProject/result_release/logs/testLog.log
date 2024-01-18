@@ -1,108 +1,21 @@
-2024-01-11 09:46:49,288 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 09:46:49,289 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:55] - INFO: ----------开始执行登录用例-------------
-2024-01-11 09:46:49,291 - C:\pythonMyProject\pages\page_login.py[line:131] - INFO: 开始执行登录用例
-2024-01-11 09:46:52,117 - C:\pythonMyProject\pages\page_login.py[line:133] - INFO: 输入了邮箱
-2024-01-11 09:46:54,544 - C:\pythonMyProject\pages\page_login.py[line:135] - INFO: 输入了密码
-2024-01-11 09:46:55,887 - C:\pythonMyProject\pages\page_login.py[line:137] - INFO: 点击了登录按钮
-2024-01-11 09:46:55,887 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:100] - INFO: 检查是否有位置获取位置信息的提示，有则选择否
-2024-01-11 09:47:07,154 - C:\pythonMyProject\pages\page_base.py[line:156] - WARNING: fendElement未找到目标元素:属性by：id 属性值value：com.android.permissioncontroller:id/permission_deny_button
-2024-01-11 09:47:07,155 - C:\pythonMyProject\pages\page_login.py[line:157] - INFO: 没有出现允许查找附近设备的弹窗
-2024-01-11 09:47:08,550 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:58] - INFO: ----------结束执行登录用例-------------
-2024-01-11 09:47:19,380 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 09:47:19,381 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:55] - INFO: ----------开始执行登录用例-------------
-2024-01-11 09:47:19,383 - C:\pythonMyProject\pages\page_login.py[line:131] - INFO: 开始执行登录用例
-2024-01-11 09:47:30,509 - C:\pythonMyProject\pages\page_login.py[line:133] - INFO: 输入了邮箱
-2024-01-11 09:47:32,965 - C:\pythonMyProject\pages\page_login.py[line:135] - INFO: 输入了密码
-2024-01-11 09:47:34,227 - C:\pythonMyProject\pages\page_login.py[line:137] - INFO: 点击了登录按钮
-2024-01-11 09:47:34,772 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:116] - INFO: 登录失败的用例执行结束
-2024-01-11 09:47:34,772 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:58] - INFO: ----------结束执行登录用例-------------
-2024-01-11 09:47:49,527 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 09:47:49,527 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:55] - INFO: ----------开始执行登录用例-------------
-2024-01-11 09:47:49,528 - C:\pythonMyProject\pages\page_login.py[line:131] - INFO: 开始执行登录用例
-2024-01-11 09:47:52,108 - C:\pythonMyProject\pages\page_login.py[line:133] - INFO: 输入了邮箱
-2024-01-11 09:47:54,521 - C:\pythonMyProject\pages\page_login.py[line:135] - INFO: 输入了密码
-2024-01-11 09:47:55,779 - C:\pythonMyProject\pages\page_login.py[line:137] - INFO: 点击了登录按钮
-2024-01-11 09:47:56,088 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:116] - INFO: 登录失败的用例执行结束
-2024-01-11 09:47:56,088 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:58] - INFO: ----------结束执行登录用例-------------
-2024-01-11 09:48:09,012 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 09:48:09,012 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:55] - INFO: ----------开始执行登录用例-------------
-2024-01-11 09:48:09,013 - C:\pythonMyProject\pages\page_login.py[line:131] - INFO: 开始执行登录用例
-2024-01-11 09:48:17,064 - C:\pythonMyProject\pages\page_base.py[line:156] - WARNING: fendElement未找到目标元素:属性by：id 属性值value：com.renpho.health:id/input_email
-2024-01-11 09:48:25,109 - C:\pythonMyProject\pages\page_base.py[line:156] - WARNING: fendElement未找到目标元素:属性by：xpath 属性值value：//*[@text='邮箱']
-2024-01-11 09:48:25,110 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:118] - INFO: 登录失败的用例执行失败
-2024-01-11 09:48:25,959 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:58] - INFO: ----------结束执行登录用例-------------
-2024-01-11 09:48:41,833 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 09:48:41,833 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:55] - INFO: ----------开始执行登录用例-------------
-2024-01-11 09:48:41,835 - C:\pythonMyProject\pages\page_login.py[line:131] - INFO: 开始执行登录用例
-2024-01-11 09:48:44,476 - C:\pythonMyProject\pages\page_login.py[line:133] - INFO: 输入了邮箱
-2024-01-11 09:48:46,825 - C:\pythonMyProject\pages\page_login.py[line:135] - INFO: 输入了密码
-2024-01-11 09:48:48,052 - C:\pythonMyProject\pages\page_login.py[line:137] - INFO: 点击了登录按钮
-2024-01-11 09:48:48,053 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:116] - INFO: 登录失败的用例执行结束
-2024-01-11 09:48:48,054 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:58] - INFO: ----------结束执行登录用例-------------
-2024-01-11 09:49:16,959 - C:\pythonMyProject\pages\page_base.py[line:61] - INFO: App启动失败
-2024-01-11 09:49:30,671 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 09:49:30,671 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:55] - INFO: ----------开始执行登录用例-------------
-2024-01-11 09:49:30,672 - C:\pythonMyProject\pages\page_login.py[line:131] - INFO: 开始执行登录用例
-2024-01-11 09:49:33,170 - C:\pythonMyProject\pages\page_login.py[line:133] - INFO: 输入了邮箱
-2024-01-11 09:49:35,576 - C:\pythonMyProject\pages\page_login.py[line:135] - INFO: 输入了密码
-2024-01-11 09:49:36,270 - C:\pythonMyProject\pages\page_login.py[line:137] - INFO: 点击了登录按钮
-2024-01-11 09:49:36,960 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:68] - INFO: 登录页当前展示提示语：You may have entered an incorrect email address or password. Please check and try again.
-2024-01-11 09:49:37,207 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:116] - INFO: 登录失败的用例执行结束
-2024-01-11 09:49:37,208 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:58] - INFO: ----------结束执行登录用例-------------
-2024-01-11 09:49:48,315 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 09:49:48,315 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:55] - INFO: ----------开始执行登录用例-------------
-2024-01-11 09:49:48,317 - C:\pythonMyProject\pages\page_login.py[line:131] - INFO: 开始执行登录用例
-2024-01-11 09:49:56,341 - C:\pythonMyProject\pages\page_base.py[line:156] - WARNING: fendElement未找到目标元素:属性by：id 属性值value：com.renpho.health:id/input_email
-2024-01-11 09:50:04,383 - C:\pythonMyProject\pages\page_base.py[line:156] - WARNING: fendElement未找到目标元素:属性by：xpath 属性值value：//*[@text='邮箱']
-2024-01-11 09:50:04,383 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:118] - INFO: 登录失败的用例执行失败
-2024-01-11 09:50:05,046 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:58] - INFO: ----------结束执行登录用例-------------
-2024-01-11 09:50:20,192 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 09:50:20,192 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:55] - INFO: ----------开始执行登录用例-------------
-2024-01-11 09:50:20,193 - C:\pythonMyProject\pages\page_login.py[line:131] - INFO: 开始执行登录用例
-2024-01-11 09:50:23,243 - C:\pythonMyProject\pages\page_login.py[line:133] - INFO: 输入了邮箱
-2024-01-11 09:50:25,656 - C:\pythonMyProject\pages\page_login.py[line:135] - INFO: 输入了密码
-2024-01-11 09:50:26,330 - C:\pythonMyProject\pages\page_login.py[line:137] - INFO: 点击了登录按钮
-2024-01-11 09:50:27,371 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:86] - INFO: 登录页当前展示提示语：Email was not registered
-2024-01-11 09:50:27,371 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:116] - INFO: 登录失败的用例执行结束
-2024-01-11 09:50:27,372 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:58] - INFO: ----------结束执行登录用例-------------
-2024-01-11 17:40:51,082 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 17:40:51,083 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:11] - INFO: —————————开始执行注册账号用例————————————
-2024-01-11 17:41:12,626 - C:\pythonMyProject\pages\page_base.py[line:156] - WARNING: fendElement未找到目标元素:属性by：xpath 属性值value：//*[@text='完善信息']
-2024-01-11 17:41:12,972 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:47] - ERROR: 执行注册成功的用例，过程中出现了异常
-2024-01-11 17:43:22,791 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 17:43:22,791 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:11] - INFO: —————————开始执行注册账号用例————————————
-2024-01-11 18:23:22,910 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 18:23:22,910 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:24] - INFO: —————————开始执行注册账号用例————————————
-2024-01-11 18:23:32,530 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:81] - ERROR: 执行邮箱已经注册的用例，过程中出现了异常
-2024-01-11 18:23:50,116 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 18:23:50,117 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:24] - INFO: —————————开始执行注册账号用例————————————
-2024-01-11 18:23:59,627 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:81] - ERROR: 执行邮箱已经注册的用例，过程中出现了异常
-2024-01-11 18:24:13,942 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 18:24:13,942 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:24] - INFO: —————————开始执行注册账号用例————————————
-2024-01-11 18:24:23,599 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:81] - ERROR: 执行邮箱已经注册的用例，过程中出现了异常
-2024-01-11 18:29:29,295 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-11 18:29:29,297 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:24] - INFO: —————————开始执行注册账号用例————————————
-2024-01-12 12:13:30,890 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-12 12:13:30,893 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:55] - INFO: ----------开始执行登录用例-------------
-2024-01-12 12:13:30,897 - C:\pythonMyProject\pages\page_login.py[line:131] - INFO: 开始执行登录用例
-2024-01-12 12:13:33,602 - C:\pythonMyProject\pages\page_login.py[line:133] - INFO: 输入了邮箱
-2024-01-12 12:13:35,968 - C:\pythonMyProject\pages\page_login.py[line:135] - INFO: 输入了密码
-2024-01-12 12:13:36,608 - C:\pythonMyProject\pages\page_login.py[line:137] - INFO: 点击了登录按钮
-2024-01-12 12:13:36,608 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:100] - INFO: 检查是否有位置获取位置信息的提示，有则选择否
-2024-01-12 12:13:47,400 - C:\pythonMyProject\pages\page_base.py[line:156] - WARNING: fendElement未找到目标元素:属性by：id 属性值value：com.android.permissioncontroller:id/permission_deny_button
-2024-01-12 12:13:47,404 - C:\pythonMyProject\pages\page_login.py[line:157] - INFO: 没有出现允许查找附近设备的弹窗
-2024-01-12 12:13:48,894 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:58] - INFO: ----------结束执行登录用例-------------
-2024-01-12 12:18:36,339 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-12 12:18:36,340 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:32] - INFO: —————————开始执行注册账号用例————————————
-2024-01-12 12:18:49,828 - C:\pythonMyProject\pages\page_base.py[line:156] - WARNING: fendElement未找到目标元素:属性by：id 属性值value：com.renpho.health:id/email_error
-2024-01-12 12:19:14,063 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-12 12:19:14,063 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:32] - INFO: —————————开始执行注册账号用例————————————
-2024-01-12 12:19:27,258 - C:\pythonMyProject\pages\page_base.py[line:156] - WARNING: fendElement未找到目标元素:属性by：id 属性值value：com.renpho.health:id/email_error
-2024-01-12 12:20:39,968 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-12 12:20:39,968 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:32] - INFO: —————————开始执行注册账号用例————————————
-2024-01-12 12:26:13,855 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-12 12:26:13,856 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:32] - INFO: —————————开始执行注册账号用例————————————
-2024-01-12 15:02:08,778 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-12 15:02:08,779 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:32] - INFO: —————————开始执行注册账号用例————————————
-2024-01-12 16:01:18,790 - C:\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
-2024-01-12 16:01:18,791 - C:\pythonMyProject\testCase_Android\test_register_case.py[line:32] - INFO: —————————开始执行注册账号用例————————————
+2024-01-18 16:52:10,688 - C:\Users\admin\Desktop\git_test\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
+2024-01-18 16:52:10,690 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:55] - INFO: ----------开始执行登录用例-------------
+2024-01-18 16:52:10,692 - C:\Users\admin\Desktop\git_test\pythonMyProject\pages\page_login.py[line:131] - INFO: 开始执行登录用例
+2024-01-18 16:52:13,053 - C:\Users\admin\Desktop\git_test\pythonMyProject\pages\page_login.py[line:133] - INFO: 输入了邮箱
+2024-01-18 16:52:15,369 - C:\Users\admin\Desktop\git_test\pythonMyProject\pages\page_login.py[line:135] - INFO: 输入了密码
+2024-01-18 16:52:16,677 - C:\Users\admin\Desktop\git_test\pythonMyProject\pages\page_login.py[line:137] - INFO: 点击了登录按钮
+2024-01-18 16:52:16,677 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:100] - INFO: 检查是否有位置获取位置信息的提示，有则选择否
+2024-01-18 16:52:26,624 - C:\Users\admin\Desktop\git_test\pythonMyProject\pages\page_base.py[line:156] - WARNING: fendElement未找到目标元素:属性by：id 属性值value：com.android.permissioncontroller:id/permission_deny_button
+2024-01-18 16:52:26,624 - C:\Users\admin\Desktop\git_test\pythonMyProject\pages\page_login.py[line:157] - INFO: 没有出现允许查找附近设备的弹窗
+2024-01-18 16:52:28,131 - C:\pythonMyProject\testCase_Android\test_login_case.py[line:58] - INFO: ----------结束执行登录用例-------------
+2024-01-18 16:53:20,681 - C:\Users\admin\Desktop\git_test\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
+2024-01-18 16:53:20,681 - C:\Users\admin\Desktop\git_test\pythonMyProject\testCase_Android\test_register_case.py[line:32] - INFO: —————————开始执行注册账号用例————————————
+2024-01-18 16:53:29,015 - C:\Users\admin\Desktop\git_test\pythonMyProject\testCase_Android\test_register_case.py[line:133] - INFO: 执行注册时邮箱验证码错误的用例失败
+2024-01-18 16:53:44,727 - C:\Users\admin\Desktop\git_test\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
+2024-01-18 16:53:44,727 - C:\Users\admin\Desktop\git_test\pythonMyProject\testCase_Android\test_register_case.py[line:32] - INFO: —————————开始执行注册账号用例————————————
+2024-01-18 16:53:58,885 - C:\Users\admin\Desktop\git_test\pythonMyProject\testCase_Android\test_register_case.py[line:133] - INFO: 执行注册时邮箱验证码错误的用例失败
+2024-01-18 16:54:14,273 - C:\Users\admin\Desktop\git_test\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
+2024-01-18 16:54:14,273 - C:\Users\admin\Desktop\git_test\pythonMyProject\testCase_Android\test_register_case.py[line:32] - INFO: —————————开始执行注册账号用例————————————
+2024-01-18 16:54:28,619 - C:\Users\admin\Desktop\git_test\pythonMyProject\testCase_Android\test_register_case.py[line:133] - INFO: 执行注册时邮箱验证码错误的用例失败
+2024-01-18 17:02:20,217 - C:\Users\admin\Desktop\git_test\pythonMyProject\pages\page_base.py[line:58] - INFO: App启动成功
+2024-01-18 17:02:20,217 - C:\Users\admin\Desktop\git_test\pythonMyProject\testCase_Android\test_register_case.py[line:32] - INFO: —————————开始执行注册账号用例————————————

@@ -1,9 +1,9 @@
 import time
 
 import allure
-from project_utils.utilDB import UtilDB
+from utils.utilDB import UtilDB
 from pages.page_login import PageLogin
-from project_utils.random_util import *
+from utils.random_util import *
 
 # _________________________用户许可页面____________________________
 
@@ -260,7 +260,7 @@ class PageRegister(PageLogin):
         """
         # sql = "SELECT code FROM verify_code_password vcp WHERE email in ('xbtest001@qq.com')"
         sql_testenv = "SELECT code FROM test2.verify_code_password vcp WHERE email in ('" + email + "')"
-        from project_utils.utilfile import returnAppEnvFromInitFile
+        from utils.utilfile import returnAppEnvFromInitFile
         env = returnAppEnvFromInitFile()
         pwd = '123456'
         time.sleep(3)

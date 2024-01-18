@@ -1,5 +1,5 @@
 from pages.page_login import PageLogin
-from project_utils.utilfile import *
+from utils.utilfile import *
 import pytest
 import allure
 

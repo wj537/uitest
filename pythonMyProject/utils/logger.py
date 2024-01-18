@@ -2,7 +2,7 @@ import logging
 import os
 from logging import handlers
 
-from project_utils.utilfile import returnAppEnvFromInitFile
+from utils.utilfile import returnAppEnvFromInitFile
 
 
 class Logger():
