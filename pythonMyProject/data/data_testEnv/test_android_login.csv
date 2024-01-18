@@ -1,0 +1,6 @@
+email,pwd,prompt,isInHomePage
+,123456,Please enter a valid email address.,False
+eric05@test163.com ,123456,Please enter a valid email address.,False
+eric05@test163.com,,,False
+eric05@test163.com,1234,You may have entered an incorrect email address or password. Please check and try again.,False
+eric005@test163.com,123456,Email was not registered,False
